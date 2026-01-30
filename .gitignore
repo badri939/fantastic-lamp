@@ -1,0 +1,52 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency Directories
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+
+# Build Output
+dist/
+build/
+out/
+*.pyc
+__pycache__/
+*.egg-info/
+.eggs/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+*.cover
+.coverage
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
